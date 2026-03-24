@@ -2,7 +2,7 @@
 
 ## AIM
 To study and implement DML (Data Manipulation Language) commands.
-
+ 
 ## THEORY
 
 ### 1. INSERT INTO
